@@ -1,8 +1,8 @@
-# Design-Files #
-
 ![picture alt](https://github.com/steps-per-mm/Design-Files/blob/master/logo.png)
 
-http://steps-per-mm.xyz
+# Design-Files #
+
+[steps-per-mm.xyz](http://steps-per-mm.xyz)
 
 ## PNG &amp; AI ##
 
