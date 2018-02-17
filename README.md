@@ -2,7 +2,7 @@
 
 # Design-Files #
 
-## [steps-per-mm.xyz](http://steps-per-mm.xyz) ##
+Order online at | [steps-per-mm.xyz](http://steps-per-mm.xyz)
 
 ## PNG &amp; AI ##
 
