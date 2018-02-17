@@ -14,3 +14,5 @@ RAMPS : https://grabcad.com/library/ramps-1-4
 608ZZ : https://grabcad.com/library/ball-bearing-608zz-1
 
 Questions and comments to greg@steps-per-mm.xyz
+
+Attribution 4.0 International (CC BY 4.0) | https://creativecommons.org/licenses/by/4.0/
