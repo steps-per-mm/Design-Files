@@ -26,4 +26,8 @@ RAMPS : https://grabcad.com/library/ramps-1-4
 
 608ZZ : https://grabcad.com/library/ball-bearing-608zz-1
 
+LM8UU : https://grabcad.com/library/lm8uu-8mm-id-x-17mm-l-cnc-bearing-1
+
+DuetWiFi : https://grabcad.com/library/duet-wifi-1
+
 
