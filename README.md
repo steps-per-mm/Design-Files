@@ -30,4 +30,6 @@ LM8UU : https://grabcad.com/library/lm8uu-8mm-id-x-17mm-l-cnc-bearing-1
 
 DuetWiFi : https://grabcad.com/library/duet-wifi-1
 
+12642 LCD : https://grabcad.com/library/reprap-discount-full-graphic-smart-controller-12864-robotale-1
 
+2004 LCD : https://grabcad.com/library/ramps-2004-lcd-prusa-reprap-screen-1-4-1
