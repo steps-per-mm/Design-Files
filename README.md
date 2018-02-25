@@ -8,7 +8,7 @@ I have used opensource and free to use for commercial puropses models and graphi
 
 Questions and comments to greg@steps-per-mm.xyz
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) | hhttps://creativecommons.org/licenses/by-sa/4.0/
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) | https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Interesting Sites ###
 
