@@ -10,9 +10,22 @@ Questions and comments to greg@steps-per-mm.xyz
 
 Attribution 4.0 International (CC BY 4.0) | https://creativecommons.org/licenses/by/4.0/
 
-## Useful & Relevant Links ##
+## Interesting Sites ###
 
 https://jheadnozzle.blogspot.co.uk/
+
+## Graphic Sources ##
+
+http://all-free-download.com/free-vector/download/maths-draft-graph-vector_520388.html
+
+http://all-free-download.com/free-vector/download/maths-draft-graph-vector_520387.html
+
+http://all-free-download.com/free-vector/download/maths-draft-graph-vector_519193.html
+
+http://all-free-download.com/free-vector/download/graph-templates-collection-bars-lines-types-handdrawn-sketch_6833112.html
+
+http://all-free-download.com/free-vector/download/set_of_math_scribble_design_vector_522715_download.html
+
 
 ## Model Sources ##
 
