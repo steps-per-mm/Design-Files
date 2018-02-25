@@ -4,7 +4,7 @@
 
 Order online at | [steps-per-mm.xyz](http://steps-per-mm.xyz)
 
-I have used opensource and free to use for commercial puropses models and graphics. If I have missed someone out or incorrectly attributed a source please contact me using the email below. All my own work is CC BY-SA 4.0.
+I have used opensource and free for commercial use models and graphics. If I have missed someone out, mistaken something as free to use or incorrectly attributed a source please contact me using the email below. All my own work is CC BY-SA 4.0.
 
 Questions and comments to greg@steps-per-mm.xyz
 
