@@ -4,7 +4,7 @@
 
 Order online at | [steps-per-mm.xyz](http://steps-per-mm.xyz)
 
-## PNG &amp; AI ##
+I have used opensource and free to use for commercial puropses models and graphics. If I have missed someone out or incorecctly attributed a source please contact me using the email below.
 
 Questions and comments to greg@steps-per-mm.xyz
 
