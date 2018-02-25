@@ -18,6 +18,10 @@ http://smoothieware.org/smoothieboard
 
 https://jheadnozzle.blogspot.co.uk/
 
+https://opensource.org/
+
+https://www.oshwa.org/
+
 ## Graphic Sources ##
 
 http://all-free-download.com/free-vector/download/maths-draft-graph-vector_520388.html
