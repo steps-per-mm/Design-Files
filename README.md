@@ -14,6 +14,8 @@ Attribution 4.0 International (CC BY 4.0) | https://creativecommons.org/licenses
 
 http://reprap.org/
 
+http://smoothieware.org/smoothieboard
+
 https://jheadnozzle.blogspot.co.uk/
 
 ## Graphic Sources ##
@@ -48,3 +50,7 @@ DuetWiFi : https://grabcad.com/library/duet-wifi-1
 12642 LCD : https://grabcad.com/library/reprap-discount-full-graphic-smart-controller-12864-robotale-1
 
 2004 LCD : https://grabcad.com/library/ramps-2004-lcd-prusa-reprap-screen-1-4-1
+
+Smoothieboard : https://grabcad.com/library/smoothieboard-1
+
+
