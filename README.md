@@ -4,11 +4,11 @@
 
 Order online at | [steps-per-mm.xyz](http://steps-per-mm.xyz)
 
-I have used opensource and free to use for commercial puropses models and graphics. If I have missed someone out or incorecctly attributed a source please contact me using the email below.
+I have used opensource and free to use for commercial puropses models and graphics. If I have missed someone out or incorecctly attributed a source please contact me using the email below. All my own work is CC BY-SA 4.0.
 
 Questions and comments to greg@steps-per-mm.xyz
 
-Attribution 4.0 International (CC BY 4.0) | https://creativecommons.org/licenses/by/4.0/
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) | hhttps://creativecommons.org/licenses/by-sa/4.0/
 
 ## Interesting Sites ###
 
